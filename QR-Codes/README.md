@@ -22,8 +22,11 @@ https://app.ens.domains/janeori.eth
 
 ## xrp
 
-rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg
-459777128
+rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg:459777128
+
+or
+
+X7zmKiqEhMznSXgj9cirEnD5sWo3iZPqbNPChdEKV9sM9WF
 
 ## btc
 
