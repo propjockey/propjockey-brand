@@ -30,9 +30,9 @@ Please do reach out if you need help with any of this, have feature requests, or
 | :---: | :---: | :---: | :---: |
 | [![PropJockey.io](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) |
 
-| <small>LinkedIn</small> | <small>X</small> | <small>Mastodon</small> | <small>Bluesky</small> |
+| <small>Mastodon</small> | <small>LinkedIn</small> | <small>X</small> | <small>Bluesky</small> |
 | :---: | :---: | :---: | :---: |
-| [![LinkedIn](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri) | [![Mastodon](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/mastodon.svg)](https://front-end.social/@JaneOri) | [![Bluesky](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
+| [![Mastodon](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/mastodon.svg)](https://front-end.social/@JaneOri) | [![LinkedIn](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri) | [![Bluesky](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
 
 ### My heart is open to receive abundance in all forms, flowing to me in many expected and unexpected ways.
 
@@ -60,9 +60,9 @@ Please do reach out if you need help with any of this, have feature requests, or
 | :---: | :---: | :---: | :---: |
 | [![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/dev.svg)](https://dev.to/janeori) | [![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/github.svg)](https://github.com/propjockey) |
 
-| <small>LinkedIn</small> | <small>X</small> | <small>Mastodon</small> | <small>Bluesky</small> |
+| <small>Mastodon</small> | <small>LinkedIn</small> | <small>X</small> | <small>Bluesky</small> |
 | :---: | :---: | :---: | :---: |
-| [![LinkedIn](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/x.svg)](https://x.com/jane0ri) | [![Mastodon](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/mastodon.svg)](https://front-end.social/@JaneOri) | [![Bluesky](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
+| [![Mastodon](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/mastodon.svg)](https://front-end.social/@JaneOri) | [![LinkedIn](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/x.svg)](https://x.com/jane0ri) | [![Bluesky](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
 
 ### My heart is open to receive abundance in all forms, flowing to me in many expected and unexpected ways.
 
@@ -88,9 +88,9 @@ Please do reach out if you need help with any of this, have feature requests, or
 | :---: | :---: | :---: | :---: |
 | [![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/dev.svg)](https://dev.to/janeori) | [![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/github.svg)](https://github.com/propjockey) |
 
-| <small>LinkedIn</small> | <small>X</small> | <small>Mastodon</small> | <small>Bluesky</small> |
+| <small>Mastodon</small> | <small>LinkedIn</small> | <small>X</small> | <small>Bluesky</small> |
 | :---: | :---: | :---: | :---: |
-| [![LinkedIn](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/x.svg)](https://x.com/jane0ri) | [![Mastodon](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/mastodon.svg)](https://front-end.social/@JaneOri) | [![Bluesky](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
+| [![Mastodon](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/mastodon.svg)](https://front-end.social/@JaneOri) | [![LinkedIn](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/x.svg)](https://x.com/jane0ri) | [![Bluesky](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/color-responsive/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
 
 ### My heart is open to receive abundance in all forms, flowing to me in many expected and unexpected ways.
 
