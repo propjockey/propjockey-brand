@@ -35,3 +35,58 @@ bc1qe2ss8hvmskcxpmk046msrjpmy9qults2yusgn9
 ### prev-btc
 
 3BbiHYTrxk9KCwCoekQu746oDfHRDzfyHw
+
+## All together
+
+Venmo
+https://account.venmo.com/u/JaneOri
+
+PayPal Donate to PropJockey
+https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9Z925L3SJJ8BS&source=qr&ssrt=1772865628068
+
+Ko-Fi
+https://ko-fi.com/janeori
+
+ENS
+https://app.ens.domains/janeori.eth
+
+ETH
+0x674D4191dEBf9793e743D21a4B8c4cf1cC3beF54
+
+BTC
+bc1qe2ss8hvmskcxpmk046msrjpmy9qults2yusgn9
+
+XRP (XRPL Mainnet)
+X7zmKiqEhMznSXgj9cirEnD5sWo3iZPqbNPChdEKV9sM9WF
+( rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg : 459777128 )
+
+XRP (Base Network)
+0xb4eBF3Ec089DE7820ac69771b9634C9687e43F70
+
+```md
+
+Venmo
+https://account.venmo.com/u/JaneOri
+
+PayPal Donate to PropJockey
+https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9Z925L3SJJ8BS&source=qr&ssrt=1772865628068
+
+Ko-Fi
+https://ko-fi.com/janeori
+
+ENS
+https://app.ens.domains/janeori.eth
+
+ETH
+0x674D4191dEBf9793e743D21a4B8c4cf1cC3beF54
+
+BTC
+bc1qe2ss8hvmskcxpmk046msrjpmy9qults2yusgn9
+
+XRP (XRPL Mainnet)
+X7zmKiqEhMznSXgj9cirEnD5sWo3iZPqbNPChdEKV9sM9WF
+( rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg : 459777128 )
+
+XRP (Base Network)
+0xb4eBF3Ec089DE7820ac69771b9634C9687e43F70
+```

@@ -15,41 +15,59 @@ raw embeds
 </a>
 ```
 
-```md
-[![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io)
+Blog footer
 
-[![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey)
+---
 
-[![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori)
+## Open Contact 👽
 
-[![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey)
+Please do reach out if you need help with any of this, have feature requests, or want to share what you've created!
 
-[![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri)
-```
+| PropJockey.io | CodePen | DEV Blog | GitHub |
+| :---: | :---: | :---: | :---: |
+| [![PropJockey.io](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) |
 
-| PropJockey.io | CodePen | DEV Blog | GitHub | X   |
-| --- | --- | --- | --- | --- |
-| [![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) | [![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri) |
+| LinkedIn | X | Mastodon | Bluesky |
+| :---: | :---: | :---: | :---: |
+| [![LinkedIn](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri) | [![Mastodon](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/mastodon.svg)](https://front-end.social/@JaneOri) | [![Bluesky](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
 
+### My heart is open to receive abundance in all forms, flowing to me in many expected and unexpected ways.
 
-```md
-| PropJockey.io | CodePen | DEV Blog | GitHub | X   |
-| --- | --- | --- | --- | --- |
-| [![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) | [![X](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri) |
-```
+| PayPal | Ko-Fi | Venmo |
+| :---: | :---: | :---: |
+| [![PayPal](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/paypal.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9Z925L3SJJ8BS&source=qr&ssrt=1772865628068) | [![Ko-fi](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/ko-fi.svg)](https://ko-fi.com/janeori) | [![Venmo](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/venmo.svg)](https://account.venmo.com/u/JaneOri) |
 
+| BTC | XRP | ETH |
+| :---: | :---: | :---: |
+| [![BTC bc1qe2ss8hvmskcxpmk046msrjpmy9qults2yusgn9](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/btc.svg)](https://app.ens.domains/janeori.eth) | ![XRP rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg : 459777128](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/xrp.svg) | [![ETH 0x674D4191dEBf9793e743D21a4B8c4cf1cC3beF54](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/eth.svg)](https://app.ens.domains/janeori.eth) |
+| bc1qe...usgn9 | rw2ci...nWKQg : 459777128 | 0x674...beF54 |
 
-| PropJockey.io | CodePen | DEV Blog | GitHub | Mastodon |
-| --- | --- | --- | --- | --- |
-| [![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) | [![Mastodon](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/mastodon.svg)](https://front-end.social/@JaneOri) |
-
-[𝕏@Jane0ri](https://x.com/jane0ri)
 
 ```md
-| PropJockey.io | CodePen | DEV Blog | GitHub | Mastodon |
-| --- | --- | --- | --- | --- |
-| [![PropJockey.io](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) | [![Mastodon](https://raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/mastodon.svg)](https://front-end.social/@JaneOri) |
 
+---
 
-[𝕏@Jane0ri](https://x.com/jane0ri)
+## Open Contact 👽
+
+Please do reach out if you need help with any of this, have feature requests, or want to share what you've created!
+
+| PropJockey.io | CodePen | DEV Blog | GitHub |
+| :---: | :---: | :---: | :---: |
+| [![PropJockey.io](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/propjockey-lines.svg)](https://propjockey.io) | [![CodePen](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/codepen.svg)](https://codepen.io/propjockey) | [![DEV Blog](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/dev.svg)](https://dev.to/janeori) | [![GitHub](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/github.svg)](https://github.com/propjockey) |
+
+| LinkedIn | X | Mastodon | Bluesky |
+| :---: | :---: | :---: | :---: |
+| [![LinkedIn](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/linkedin.svg)](https://www.linkedin.com/in/janeori/) | [![X](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/x.svg)](https://x.com/jane0ri) | [![Mastodon](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/mastodon.svg)](https://front-end.social/@JaneOri) | [![Bluesky](//raw.githubusercontent.com/propjockey/propjockey-brand/main/external-social/100px/bluesky.svg)](https://bsky.app/profile/janeori.propjockey.io) |
+
+### My heart is open to receive abundance in all forms, flowing to me in many expected and unexpected ways.
+
+| PayPal | Ko-Fi | Venmo |
+| :---: | :---: | :---: |
+| [![PayPal](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/paypal.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9Z925L3SJJ8BS&source=qr&ssrt=1772865628068) | [![Ko-fi](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/ko-fi.svg)](https://ko-fi.com/janeori) | [![Venmo](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/venmo.svg)](https://account.venmo.com/u/JaneOri) |
+
+| BTC | XRP | ETH |
+| :---: | :---: | :---: |
+| [![BTC bc1qe2ss8hvmskcxpmk046msrjpmy9qults2yusgn9](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/btc.svg)](https://app.ens.domains/janeori.eth) | ![XRP rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg : 459777128](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/xrp.svg) | [![ETH 0x674D4191dEBf9793e743D21a4B8c4cf1cC3beF54](//raw.githubusercontent.com/propjockey/propjockey-brand/main/QR-Codes/svg/200px/eth.svg)](https://app.ens.domains/janeori.eth) |
+| bc1qe...usgn9 | rw2ci...nWKQg : 459777128 | 0x674...beF54 |
 ```
+
