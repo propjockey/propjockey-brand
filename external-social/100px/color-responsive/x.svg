@@ -1,8 +1,8 @@
-<svg alt="X" width="100px" height="100px" viewBox="0 0 1200 1227" xmlns="http://www.w3.org/2000/svg">
+<svg alt="X" width="100px" height="100px" viewBox="-5 -5 1210 1237" xmlns="http://www.w3.org/2000/svg">
   <style>
     .theme-path {
       fill: #ffffff;
-      filter: drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.6));
+      filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.6));
 
       @media (prefers-color-scheme: light) {
         fill: #000000;

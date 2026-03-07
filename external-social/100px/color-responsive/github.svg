@@ -1,8 +1,8 @@
-<svg alt="GitHub" width="100px" height="100px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg alt="GitHub" width="100px" height="100px" viewBox="-2 -2 28 28" xmlns="http://www.w3.org/2000/svg">
   <style>
     .theme-path {
       fill: #ffffff;
-      filter: drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.6));
+      filter: drop-shadow(0px 0px 0.2px rgba(0, 0, 0, 0.6));
 
       @media (prefers-color-scheme: light) {
         fill: #000000;
