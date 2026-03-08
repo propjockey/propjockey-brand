@@ -751,7 +751,7 @@
 		<rect x="50" y="900" width="75" height="75" />
 
 		<svg x="350" y="350" width="325" height="325" viewBox="0 0 512 512">
-		  <circle fill="#8100f0" cx="50%" cy="50%" r="256" />
+		  <circle fill="#8100f0" cx="50%" cy="50%" r="256" stroke-width="22" stroke="#fff" />
 			<svg x="13%" y="13%" width="74%" height="74%" viewBox="0 0 24 24">
 				<path fill="#ffffff" d="M11.944 17.97L4.58 13.62 11.943 24l7.37-10.38-7.372 4.35h.003zM12.056 0L4.69 12.223l7.365 4.354 7.365-4.35L12.056 0z" />
 			</svg>
